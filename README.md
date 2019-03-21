@@ -10,15 +10,16 @@
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
-Hello World is based on a 1974 Bell Laboratories internal memorandum by Brian
-Kernighan called Programming in C: A Tutorial, which contains the first known
-version of this program. Since then, it has become a common first step into
-learning a programming language.
+"Hello World" is traditionally the first 
 
-Now, its time for us to do the same. Let's create a program that will print
-["Hello World!"][hello] to your terminal!
+In this 1974 Bell Laboratories internal memorandum by Brian Kernighan is the
+first known version of the program "Hello World!"—a program that is now the most
+common first step into learning a programming language.
 
-## Create a New Ruby File From Scratch
+Now, its time for is to take the same step with Ruby. Let's create a program
+that will print ["Hello World!"][hello] to your terminal!
+
+## Create a New Ruby File from Scratch
 
 To get started, we first need to create a Ruby file to contain our code. We will
 call it `hello_world.rb`.
@@ -55,7 +56,7 @@ Code:
 puts "Hello World!"
 ```
 
-## Run a Ruby file
+## Run a Ruby File
 
 Execute this file by typing `ruby hello_world.rb` into your terminal and
 pressing `enter`/`return`. The `ruby` part of that command tells your computer
@@ -70,7 +71,7 @@ $ ruby hello_world.rb
 Hello World!
 ```
 
-## Run the Learn Gem
+## Run the Learn Command
 
 Confirm everything is working by running the `learn` command. You should see that
 all tests are passing (e.g. no red error text).
@@ -93,3 +94,4 @@ Your adventure in Ruby has only just begun!
 
 [hello]: http://en.wikipedia.org/wiki/%22Hello,_World!%22_program
 [filenames]: https://en.wikipedia.org/wiki/Filename_extension
+
