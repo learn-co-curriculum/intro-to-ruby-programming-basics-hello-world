@@ -28,10 +28,11 @@ are a common convention for specifying the files intended use. We use the `.rb`
 file extension to indicate that this file contains Ruby code and needs a Ruby
 interpreter to run.
 
-To create a file named `hello_world.rb`, in the command line, type `touch hello_world.rb` (or, if you are using the Learn IDE, you can use the "Create
-New" or "New File" options in the Editor). If that worked as expected, you should
-now see the file appear in the main directory of this lesson. Open this file
-to start editing it.
+To create a file named `hello_world.rb`, in the command line, type `touch
+hello_world.rb` (or, if you are using the Learn IDE, you can use the "Create
+New" or "New File" options in the Editor). If that worked as expected, you
+should now see the file appear in the main directory of this lesson. Open this
+file to start editing it.
 
 ## Write Valid Code to Produce "Hello World!"
 
@@ -88,6 +89,7 @@ Your adventure in Ruby has only just begun!
 
 ## Resources
 
-[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world)
+- [Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world)
 
 [hello]: http://en.wikipedia.org/wiki/%22Hello,_World!%22_program
+[filenames]: https://en.wikipedia.org/wiki/Filename_extension
